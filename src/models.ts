@@ -1,8 +1,8 @@
-import React from "react";
+import React from "react"
 export interface Todo {
-  id: number;
-  todo: string;
-  isDone: boolean;
+  id: number
+  todo: string
+  isDone: boolean
 }
 
 // type Actions =

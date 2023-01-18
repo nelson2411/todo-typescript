@@ -6,8 +6,10 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: #2f74c0;
+
   font-family: "Fira Code", monospace;
+  background: linear-gradient(rgba(92, 92, 92, 0.2), rgba(59, 57, 57, 0.5)),
+    url(./assets/universe.jpg) no-repeat center center fixed;
 }
 
 .heading {
